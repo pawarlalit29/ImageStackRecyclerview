@@ -6,5 +6,5 @@ ImageStackRecyclerview
 Image Courtesy by
 - https://www.biography.com/actor/tom-cruise
 
-Circular Lib
+Circular Imageview Lib
 - https://github.com/hdodenhof/CircleImageView
